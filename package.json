@@ -51,7 +51,7 @@
         "avow": "~2.0.1",
         "jsdom": "~0.11.0",
         "jquery-browserify": "~1.8.1",
-        "sinon": "~1.7.3",
+        "sinon": "~11.1.0",
         "kew": "~0.4.0",
         "browserify": "~4.2.0",
         "concurrent": "~0.3.2",
